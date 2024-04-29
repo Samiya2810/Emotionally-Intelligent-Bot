@@ -4,7 +4,7 @@ from telegram.ext import Updater, CommandHandler, MessageHandler, Filters
 import matplotlib.pyplot as plt
 import io
 
-bot_token = "6838990519:AAHQvI8mv2NPb69uIIe6Jop45yTHQzFoxm4"
+bot_token = "// enter  your bot token"
 bot = telebot.TeleBot(bot_token)
 
 # Define a variable to store the user's input
