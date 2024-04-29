@@ -38,11 +38,11 @@ Contributions to the project are welcome! Please follow the [contribution guidel
 This project is licensed under the [MIT License](LICENSE).
 
 ### Acknowledgements
-- Special thanks to [author1](https://github.com/author1) and [author2](https://github.com/author2) for their contributions.
+- Special thanks to [author1](https://github.com/SanskrutiDhal) and [author2](https://github.com/Samiya2810) for their contributions.
 - This project was inspired by [research paper/article/link].
 
 ### Contact
-For inquiries or support, please contact [email@example.com](mailto:email@example.com).
+For inquiries or support, please contact [email@example.com](dhalsanskruti114@gmail.com) [email@example.com](samiyamalhotra2810@gmail.com).
 
 ### References
 [1]	Rao, A. C., Rao, A. C., & Kulkarni, C. (2022). A survey on sentiment analysis methods, applications, and challenges. Artificial Intelligence Review, 55(7), 5731–5780. https://doi.org/10.1007/s10462-022-10144-1 
